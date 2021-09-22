@@ -1,0 +1,8 @@
+# Ignora todos los archivos con ese formato
+*.class
+*.swp
+*.txt
+*.xml
+
+# Ignora la carpeta
+src

@@ -6,3 +6,6 @@
 
 # Ignora la carpeta
 src
+
+# Solo agrege este texto para la rama develop
+# En esta rama se guardaran cambios del codigo
